@@ -1,0 +1,33 @@
+Nome_tabella: test1
+Numero_righe: 3
+Numero_colonne: 3
+DATE INT FLOAT 
+Data col1 col2 
+0/0/0 0 4.7 
+3/10/2022 4 8 
+/ 2 2.7 
+
+Nome_tabella: numeri
+Numero_righe: 6
+Numero_colonne: 3
+CHAR FLOAT INT 
+carattere decimale intero 
+g 4.6 5 
+S 5.7 45 
+g 4.6 34 
+Y 5 78 
+r / 34 
+/ / 78 
+
+Nome_tabella: test
+Numero_righe: 0
+Numero_colonne: 0
+
+
+
+Nome_tabella: lettere
+Numero_righe: 0
+Numero_colonne: 1
+STRING 
+testo 
+

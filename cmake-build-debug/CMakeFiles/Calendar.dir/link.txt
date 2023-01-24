@@ -1,0 +1,3 @@
+"C:\Clion_folder\CLion 2021.3.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Calendar.dir/objects.a
+C:\CLION_~1\CLION2~1.1\bin\mingw\bin\ar.exe qc CMakeFiles\Calendar.dir/objects.a @CMakeFiles\Calendar.dir\objects1.rsp
+C:\CLION_~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE -g -static -Wl,--whole-archive CMakeFiles\Calendar.dir/objects.a -Wl,--no-whole-archive -o Calendar.exe -Wl,--out-implib,libCalendar.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Calendar.dir\linklibs.rsp
