@@ -1400,7 +1400,7 @@ int main() {
             }
         }
     }
-    std::cout << "Chiusura programma effettuata con successo";
+    std::cout << "Chiusura programma effettuata con successo" << std::endl;
     return 0;
 }
 
