@@ -167,10 +167,10 @@ public:
     void printAt(int row) const {
         if(!_column.empty() && row < _column.size()){
             std::cout << _column[row];
-        } /*else {
+        } else {
             std::cout << "/";
             //std::cout << _defaultVal;
-        }*/
+        }
     }
 
     void printColumn() const {
